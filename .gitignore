@@ -176,3 +176,8 @@ tags
 
 # wandb
 wandb
+/examples/vqgan/vqgan-output/*
+*.safetensors
+*.bin
+*.pkl
+*.json
